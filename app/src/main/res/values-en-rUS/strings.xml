@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="materia">I love you from the moon</string>
+    <string name="nombre">Ana Karen</string>
+    <string name="apellido">Tovar Gomez</string>
+    <string name="back_btn_desc">Back</string>
+    <string name="home_screen">Home</string>
+    <string name="bottom_app_bar">Bottom</string>ing>
+    <string name="home_fab_text">Add button</string>
+    <string name="snackbar_message">I am a Snackbar!</string>
+    <string name="snackbar_action">Do something</string>
+</resources>

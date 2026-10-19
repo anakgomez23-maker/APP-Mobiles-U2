@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="materia">Ti amo dalla luna</string>
+    <string name="nombre">Ana Karen</string>
+    <string name="apellido">Tovar Gomez</string>
+    <string name="back_btn_desc">Indietro</string>
+    <string name="home_screen">Inizio</string>
+    <string name="bottom_app_bar">Fondo</string>
+    <string name="home_fab_text">Pulsante aggiungi</string>
+    <string name="snackbar_message">Sono uno Snackbar!</string>
+    <string name="snackbar_action">Fai qualcosa</string>
+</resources>
